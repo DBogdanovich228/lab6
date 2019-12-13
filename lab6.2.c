@@ -4,7 +4,7 @@
 #include <stdlib.h>
 
 void main(){
-	setlocale(LC_ALL,"RUSSIAN");
+	setlocale(LC_ALL,"RUSSIAN"); //
 	int k, i, x, y, b, f, z=0, *matr,  j;
 	printf("Введите колличество строк матрицы k =");
 	scanf("%d",&k);
